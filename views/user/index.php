@@ -10,7 +10,7 @@ use yii\helpers\Url;
 /* @var $searchModel app\models\UserSearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
 
-$this->title = 'Administrar Usuarios';
+$this->title = 'Administrar Usuarios a medias';
 //$this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="user-index">
